@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.Footer {
+  background-color: whitesmoke;
+  display: flex;
+  padding: 20px;
+}
+.Footer .images {
+  display: flex;
+}
+.Footer .images img {
+  width: 100px;
+  padding: 20px;
+}
+.Footer .foot1 img {
+  width: 100px;
+}
+.Footer .reas {
+  display: flex;
+  padding: 60px;
+  gap: 100px;
+  text-align: center;
+}
+.Footer .reas li {
+  list-style: none;
+}/*# sourceMappingURL=styl.css.map */
